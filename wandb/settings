@@ -1,0 +1,5 @@
+[default]
+entity = ghamguiahmed32-ensta-paris
+project = kernel_language_entopy
+base_url = https://api.wandb.ai
+
